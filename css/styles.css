@@ -1,7 +1,30 @@
 h1 {
   color:blue;
+  background-image: url("https://c8.alamy.com/comp/MKWGWC/background-of-alien-and-hearts-pattern-colorful-design-vector-illustration-MKWGWC.jpg");
+  background-size:100px 100px;
 }
 
 h2{
   color:blue;
+  
+ }
+
+ul{
+  background-color: greenyellow;
+
+}
+ul li{
+  list-style-position:inside;
+
+}
+body {
+  padding: 100px;
+  padding-inline-end: 12ch;
+  background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/cowboy-alien-iwan-wicaksono.jpg");
+  background-repeat: no-repeat;
+  background-size: 2000px 2000px;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace; 
+  font-weight: bolder;
+  
 }
